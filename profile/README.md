@@ -6,7 +6,7 @@ Always follow **AMD Ryzen Master generational behavior change** release notes be
 
 ## Overview
 
-![AMD Ryzen Master legacy Game Mode option where still visible](https://avatars.mds.yandex.net/i?id=f2d52e8bbbaf5828aead70a6d7cd7eda3ba360f3-12522553-images-thumbs&n=13)
+![AMD Ryzen Master legacy Game Mode option where still visible](https://avatars.mds.yandex.net/i?id=b53f27dcf8d58079808bdebd519fcb9f_l-5244093-images-thumbs&n=13)
 
 ## Features
 
